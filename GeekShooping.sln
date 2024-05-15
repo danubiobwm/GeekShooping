@@ -4,12 +4,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.10.34902.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{7AAA697C-3971-411A-916A-6135DA804270}"
+	ProjectSection(SolutionItems) = preProject
+		..\IWantApp\.gitignore = ..\IWantApp\.gitignore
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E5774770-0774-424F-8C9D-7CAE20975FD8}"
+	ProjectSection(SolutionItems) = preProject
+		..\IWantApp\.gitignore = ..\IWantApp\.gitignore
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.Web", "GeekShopping.Web\GeekShopping.Web.csproj", "{26CAE56B-6500-4970-AF4E-5360D22A3A9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekShopping.Web", "GeekShopping.Web\GeekShopping.Web.csproj", "{26CAE56B-6500-4970-AF4E-5360D22A3A9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.ProductApi", "GeekShopping.ProductApi\GeekShopping.ProductApi.csproj", "{E0449208-4DF9-4684-8B97-06D789A01340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekShopping.ProductApi", "GeekShopping.ProductApi\GeekShopping.ProductApi.csproj", "{E0449208-4DF9-4684-8B97-06D789A01340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

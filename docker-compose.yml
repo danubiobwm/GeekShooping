@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:latest
+    container_name: mysql_container
+    environment:
+      MYSQL_ROOT_PASSWORD: R007@1985
+      MYSQL_DATABASE: geek_shopping_product_api
+      MYSQL_USER: AdmRoot
+      MYSQL_PASSWORD: R007@1985
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:

@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:15:47.123Z",
+              "EditorCaption": ""
             }
           ]
         }
