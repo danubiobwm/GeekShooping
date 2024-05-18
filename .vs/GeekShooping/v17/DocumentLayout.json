@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MySQLContext.cs",
-              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
-              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
-              "RelativeToolTip": "GeekShopping.ProductApi\\Model\\Context\\MySQLContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T00:15:47.123Z",
+              "WhenOpened": "2024-05-16T14:51:23.937Z",
               "EditorCaption": ""
             }
           ]
