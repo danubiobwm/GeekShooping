@@ -26,8 +26,9 @@ internal class Program
 
         //Repository
         builder.Services.AddScoped<IProductRepository, ProductRepository>();
-        
 
+        // Adicionar suporte para controladores
+        builder.Services.AddControllers();
 
         var app = builder.Build();
 
@@ -38,11 +39,12 @@ internal class Program
             app.UseSwaggerUI();
         }
 
+        app.UseHttpsRedirection();
+        // Configurar roteamento de endpoints para controladores
+        app.UseRouting();
 
-
-
-
-        app.MapGet("/products", () => { });
+        // Habilitar endpoints de controladores
+        app.MapControllers();
 
 
         app.Run();
