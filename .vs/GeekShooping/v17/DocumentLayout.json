@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E0449208-4DF9-4684-8B97-06D789A01340}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,13 +27,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.ProductApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GeekShopping.ProductApi\\Properties\\launchSettings.json",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-25T20:38:05.453Z",
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:15:14.31Z",
               "EditorCaption": ""
             }
           ]
