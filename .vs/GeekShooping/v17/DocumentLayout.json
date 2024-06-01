@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\progd\\dev\\dotnetprojects\\geekshooping\\geekshopping.web\\views\\product\\productupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CAE56B-6500-4970-AF4E-5360D22A3A9E}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\product\\productupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +38,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeToolTip": "GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:36:10.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Controllers\\ProductController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:34:49.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Services\\ProductService.cs",
               "RelativeToolTip": "GeekShopping.Web\\Services\\ProductService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T14:08:01.964Z",
+              "WhenOpened": "2024-06-01T21:34:42.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Program.cs",
-              "RelativeToolTip": "GeekShopping.Web\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:12:54.898Z",
+              "DocumentIndex": 3,
+              "Title": "ProductUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
+              "ToolTip": "C:\\Users\\progd\\Dev\\dotnetProjects\\GeekShooping\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
+              "RelativeToolTip": "GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T20:34:43.066Z",
               "EditorCaption": ""
             }
           ]
